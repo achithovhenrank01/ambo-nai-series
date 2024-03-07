@@ -3,39 +3,6 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml"    
 
-# Join Telegram Group: https://t.me/iptvth
-# =======================================================
-# Playlist Name: My Playlist by Akkradet
-# Last Update: 2023-10-07 21:54:39 UTC+07 ICT
-# =======================================================
-
-#EXTINF:-1 tvg-name="INFORMATION" tvg-logo="https://i.imgur.com/OsD28mZ.jpg" group-title="ℹ️| Info", IPTV THAILAND
-https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/nosignal.m3u8
-
-#EXTINF:-1 tvg-name="INFORMATION" tvg-logo="https://i.imgur.com/WWrVLhL.png" group-title="ℹ️| Info", VISIT https://t.me/iptvth
-https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/nosignal.m3u8
-
-#EXTINF:-1 tvg-name="INFORMATION" tvg-logo="https://i.imgur.com/WWrVLhL.png" group-title="ℹ️| Info", Last update 07-03-2024 15:04
-https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/nosignal.m3u8
-
-
-#EXTINF:-1 tvg-name="INFORMATION" tvg-logo="https://i.imgur.com/WWrVLhL.png" group-title="ℹ️| Info", Your IP : 140.213.179.28
-https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/nosignal.m3u8
-
-#EXTINF:-1 tvg-name="INFORMATION" tvg-logo="https://i.imgur.com/WWrVLhL.png" group-title="ℹ️| Info", Status : VIP
-https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/nosignal.m3u8
-
-
-#EXTINF:-1 tvg-name="INFORMATION" tvg-logo="https://i.imgur.com/WWrVLhL.png" group-title="ℹ️| Info", Expired : Lifetime
-https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/nosignal.m3u8
-
-#EXTINF:-1 tvg-name="INFORMATION" tvg-logo="https://i.imgur.com/WWrVLhL.png" group-title="ℹ️| Info", DO NOT FOR SALE
-https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/nosignal.m3u8
-
-#EXTINF:-1 tvg-name="INFORMATION" tvg-logo="https://i.imgur.com/WWrVLhL.png" group-title="ℹ️| Info", THANKS TO USING THIS PLAYLIST
-https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/nosignal.m3u8
-
-
 
 
 
